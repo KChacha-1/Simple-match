@@ -22,6 +22,8 @@ button:hover {
   grid-template-rows: 1fr 1fr ;
   margin-top: 40px;
   min-width: auto;
+  grid-gap: 20px;
+
 }
 .turns{
   padding: 1em 1em;
